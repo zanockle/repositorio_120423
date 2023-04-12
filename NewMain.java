@@ -30,5 +30,6 @@ public class NewMain {
        System.out.println("Consonantes: " + consonantes);
         }
     }
+	//Comentario
     
 }
